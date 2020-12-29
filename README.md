@@ -3,7 +3,7 @@ HW1: Data Analysis Foundations + PCA Algorithm
 
 HW2: Apriori Algorithm + Association rules + PCY (Park-Chen-Yu) Algorithm
 
-HW3: K-means Algorithm and EM Algorithm (Gaussian Mixture Models)
+HW3: K-means Algorithm + EM Algorithm (Gaussian Mixture Models)
 
 HW4: Hierarchical Clustering + Density-Based Clustering
 
