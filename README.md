@@ -1,5 +1,5 @@
 # ECEN-758-Data-Mining-and-Analysis
-HW1: Data Analysis Foundations + PCA Algorithm
+HW1: Data Analysis Foundations
 
 HW2: Apriori Algorithm + Association rules + PCY (Park-Chen-Yu) Algorithm
 
