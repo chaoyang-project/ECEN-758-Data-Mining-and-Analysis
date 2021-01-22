@@ -12,5 +12,4 @@ HW4: Hierarchical Clustering + Density-Based Clustering
 HW5: Bayes Classifier + Decision Tree Classifier
 
 HW6: Course project
-     
      Use the decision tree for predicting CLASS(TCP or UDP) from PORT and SIZE dataset(10000 records derived from internet packet measurements).  
