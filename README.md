@@ -1,7 +1,8 @@
 # ECEN-758-Data-Mining-and-Analysis
 Assignments and Projects for ECEN 758 course at Texas A&M Univeristy persuring my master's degree.
 
-HW1: Data Analysis Foundations + PCA Algorithm
+###HW1: 
+Data Analysis Foundations + PCA Algorithm
 
 HW2: Apriori Algorithm + Association rules + PCY (Park-Chen-Yu) Algorithm
 
